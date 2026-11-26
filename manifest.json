@@ -1,7 +1,7 @@
 {
   "catalog": {
     "formatVersion": 1,
-    "version": 1,
+    "version": 2,
     "languages": {
       "en": "English",
       "uk-UA": "Українська",
@@ -23,7 +23,7 @@
     },
     "packages": {
       "animals": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "animals",
           "labels": {
@@ -48,12 +48,12 @@
           "cover": "dog"
         },
         "wordCount": 23,
-        "bytes": 1838660,
-        "sha256": "eae323e83bd3be1ef6cb5ffe8727257955105d5601cf8dd51af2770789bfa13a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/animals-v1.zip"
+        "bytes": 1876400,
+        "sha256": "136b2c3545aac4aaff04919f0ba49f4ab8da353935662763c724cbf6c36d245d",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/animals-v2.zip"
       },
       "insects": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "insects",
           "labels": {
@@ -78,12 +78,12 @@
           "cover": "butterfly"
         },
         "wordCount": 9,
-        "bytes": 712202,
-        "sha256": "840a4e2edc186b6a6404331d61319f70e01c0a3bb2807ac943fad685618fc74b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/insects-v1.zip"
+        "bytes": 730522,
+        "sha256": "72b3819a5434bf9f7115e7a0a1fd52ab8e17c7bd4ad4552601891b87a1b92b1a",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/insects-v2.zip"
       },
       "colors": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "colors",
           "labels": {
@@ -108,12 +108,12 @@
           "cover": "red"
         },
         "wordCount": 10,
-        "bytes": 609621,
-        "sha256": "4d7af2fb79c7fe25244701b779d33fa5a8f7bac8749158b4dd3a8bb3041c001e",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/colors-v1.zip"
+        "bytes": 636549,
+        "sha256": "28b07b89515f824c7545b17ee401d6a9fd4f8cf8809d22b256595c98a3134c02",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/colors-v2.zip"
       },
       "food": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "food",
           "labels": {
@@ -138,12 +138,12 @@
           "cover": "apple"
         },
         "wordCount": 8,
-        "bytes": 541202,
-        "sha256": "1e21872332cf74a75ddeed13fbb2a34c49b42a78119bccc5f553380459e15109",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/food-v1.zip"
+        "bytes": 556174,
+        "sha256": "d31832a1f8ddce42fde0fd8569f89036da191906efc44bdabe716071c8ebfc3b",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/food-v2.zip"
       },
       "actions-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "actions-1",
           "labels": {
@@ -189,12 +189,12 @@
           }
         },
         "wordCount": 48,
-        "bytes": 2204547,
-        "sha256": "f28b68995aa1a21c4ae295f07711042c62799732f88f6eb0e2d3bc1f98c2f014",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/actions-1-v1.zip"
+        "bytes": 2340835,
+        "sha256": "83919cbb3f14c6289b4bdd3e9c5693b8e4e499d11f68630019cdfb100bc89a52",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/actions-1-v2.zip"
       },
       "actions-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "actions-2",
           "labels": {
@@ -240,12 +240,12 @@
           }
         },
         "wordCount": 49,
-        "bytes": 2382432,
-        "sha256": "313af936bec6d102e8da700cb4d21f0b84d2efeee450ae4b61e75479060831da",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/actions-2-v1.zip"
+        "bytes": 2518814,
+        "sha256": "f1c50a22a308ed50a263d492c71c0c5bce234193188259612ff7e2726c2771ab",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/actions-2-v2.zip"
       },
       "actions-3": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "actions-3",
           "labels": {
@@ -291,12 +291,12 @@
           }
         },
         "wordCount": 49,
-        "bytes": 2505796,
-        "sha256": "f1ac2b223664f26ed50c760477b95c4326d1b1bc6ead40936c6b4f6140813d33",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/actions-3-v1.zip"
+        "bytes": 2638865,
+        "sha256": "60bfbc3c1ffde2c6a385878d1f122b26eb2877d7abe9344dcd5806e77f0aa51b",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/actions-3-v2.zip"
       },
       "actions-4": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "actions-4",
           "labels": {
@@ -342,12 +342,12 @@
           }
         },
         "wordCount": 34,
-        "bytes": 1942145,
-        "sha256": "8a4e778989ad5cdb139b3fd139167a43f5b35219b9e72731fc8e2b6d8958a676",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/actions-4-v1.zip"
+        "bytes": 2051144,
+        "sha256": "4edb1e6281ff92f123cea02bb53aac81318cffaf579deca6f6a1f1b19d56359f",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/actions-4-v2.zip"
       },
       "animal-world-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "animal-world-1",
           "labels": {
@@ -393,12 +393,12 @@
           }
         },
         "wordCount": 29,
-        "bytes": 1377336,
-        "sha256": "6a32a72a658d9b16ead7c81ce2bc7a5ab41b041c539e210d356f44501c602073",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/animal-world-1-v1.zip"
+        "bytes": 1438970,
+        "sha256": "8e36b2411be87e29e555746ab4b63864f18b855f7be64e4c9bf2e905358ba5d5",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/animal-world-1-v2.zip"
       },
       "animal-world-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "animal-world-2",
           "labels": {
@@ -444,12 +444,12 @@
           }
         },
         "wordCount": 20,
-        "bytes": 1301092,
-        "sha256": "407cd3a2b638b7897e4e1f4f11d3d3788d766b09340769ca8201f2753f513720",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/animal-world-2-v1.zip"
+        "bytes": 1367237,
+        "sha256": "ff65dc77982699856af713f76bcc6eca597947387b6677327286b50e770fafbb",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/animal-world-2-v2.zip"
       },
       "art-music": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "art-music",
           "labels": {
@@ -495,12 +495,12 @@
           }
         },
         "wordCount": 29,
-        "bytes": 1458682,
-        "sha256": "37829e22618ba722fd69f03f3754796cf08d0b8b33b07bc8f31dcca3779bc915",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/art-music-v1.zip"
+        "bytes": 1529056,
+        "sha256": "fe21ec9e212a04830d62c194cf18b26506cbc546c61c952d8e87b7d022055fa5",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/art-music-v2.zip"
       },
       "birds": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "birds",
           "labels": {
@@ -546,12 +546,12 @@
           }
         },
         "wordCount": 25,
-        "bytes": 1171198,
-        "sha256": "b8d11ab26fa231ade7f90b445a5a92e669b277e27d8f288cbe33a30353d3e230",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/birds-v1.zip"
+        "bytes": 1843328,
+        "sha256": "b386c61c43ab4c322c8cc52c8acdc53565be80a0950d02300cabd9889a52ba48",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/birds-v2.zip"
       },
       "body-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "body-1",
           "labels": {
@@ -597,12 +597,12 @@
           }
         },
         "wordCount": 35,
-        "bytes": 1448440,
-        "sha256": "eccfe210e538e640e3d8a06cc21724569f461d9bb89dd3f378809d351d16f5d9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/body-1-v1.zip"
+        "bytes": 1522257,
+        "sha256": "b41dc73bdf30b93d24e5a60a8eb8fd7370daf77c14074baa8867add577637d51",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/body-1-v2.zip"
       },
       "body-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "body-2",
           "labels": {
@@ -648,12 +648,12 @@
           }
         },
         "wordCount": 32,
-        "bytes": 1588580,
-        "sha256": "bb99284d64dcb641b3c0a044bfdf9a4c627a5036eee8aecf383dbec541345d43",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/body-2-v1.zip"
+        "bytes": 1667660,
+        "sha256": "b291dc423a5b0d25fe3aa7d3f6c08940df7922091ad23ed2132fbd94aba2b660",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/body-2-v2.zip"
       },
       "health": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "health",
           "labels": {
@@ -699,12 +699,12 @@
           }
         },
         "wordCount": 19,
-        "bytes": 1073574,
-        "sha256": "a2e9462ee60c66056db5db02492fb8d9ef7d8c7ae9b32b115842acf4de1a4cd9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/health-v1.zip"
+        "bytes": 1120683,
+        "sha256": "f2b2a83f38535eeca632bfc813c3ed6c2105b4892c234a813f9fc9f9a7eb82d8",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/health-v2.zip"
       },
       "celebrations": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "celebrations",
           "labels": {
@@ -750,12 +750,12 @@
           }
         },
         "wordCount": 45,
-        "bytes": 2460545,
-        "sha256": "25587121a558d4f1a8e899f63dc7bdd1a2148278dbd88e7d7dd744efd4e0b2a3",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/celebrations-v1.zip"
+        "bytes": 2588335,
+        "sha256": "e6fb6e19acf353455497714469d93518a70e5dc5b4f2f4d039ada2cecb2c80fd",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/celebrations-v2.zip"
       },
       "clothes-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "clothes-1",
           "labels": {
@@ -801,12 +801,12 @@
           }
         },
         "wordCount": 45,
-        "bytes": 2194614,
-        "sha256": "0f435cfca6f84e5d09bf1b3156afd414a98cc80d96fb25e1b81db48c3b2cdd09",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/clothes-1-v1.zip"
+        "bytes": 2309112,
+        "sha256": "f3055ea4796bc33a6633b1e84550232924aa987fdb046c9c124765b07c67fbc5",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/clothes-1-v2.zip"
       },
       "clothes-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "clothes-2",
           "labels": {
@@ -852,12 +852,12 @@
           }
         },
         "wordCount": 40,
-        "bytes": 2328462,
-        "sha256": "b5a3b8ffacbb46591aba4471e7382396c6cc8d99243e423cd868353ef12d0f0d",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/clothes-2-v1.zip"
+        "bytes": 2445985,
+        "sha256": "0e237f1a87efec142f38c97a9ba0bdebaca34c2c6c5a7f191f11a7334acb4d62",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/clothes-2-v2.zip"
       },
       "colors-shapes": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "colors-shapes",
           "labels": {
@@ -903,12 +903,12 @@
           }
         },
         "wordCount": 38,
-        "bytes": 1937230,
-        "sha256": "6cb63b330c57eb7bc3c985b2f4c575c1806d28f1b3af92c9884f4c50583addfa",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/colors-shapes-v1.zip"
+        "bytes": 2038087,
+        "sha256": "7f9f192ade3945ba9e5a10ebda75c45398fe500b5f5b8361447bdf03ddebadc6",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/colors-shapes-v2.zip"
       },
       "communicating": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "communicating",
           "labels": {
@@ -954,12 +954,12 @@
           }
         },
         "wordCount": 24,
-        "bytes": 1204232,
-        "sha256": "ab8e81035cc8a6850d3cb0124ab69052e32f6ca48115b5fbba00a9312adedbbb",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/communicating-v1.zip"
+        "bytes": 1260995,
+        "sha256": "f232637fda3f70a5e8d0a39353270ed896b8253b6fbf22daabf9a7856a4e48f7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/communicating-v2.zip"
       },
       "cooking": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "cooking",
           "labels": {
@@ -1005,12 +1005,12 @@
           }
         },
         "wordCount": 17,
-        "bytes": 898308,
-        "sha256": "766506acc2e5d3e4749e03139cd15e5edc362fd84e133ef83281471cd62b1761",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/cooking-v1.zip"
+        "bytes": 954487,
+        "sha256": "30fd7db28a5d7cf6e112f4f00a8859dd5b617f53441c3fac1412074b4d20c7c1",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/cooking-v2.zip"
       },
       "describing": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "describing",
           "labels": {
@@ -1056,12 +1056,12 @@
           }
         },
         "wordCount": 27,
-        "bytes": 1253445,
-        "sha256": "580e1216b72c90c10c15655156670db5ef1124f3c5cb8b29b5726e38a9ec007b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/describing-v1.zip"
+        "bytes": 1328041,
+        "sha256": "46c202e9a3eced716dbb84042d073796a27d35b087dbcbf0456f9e4dbc7f1d6a",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/describing-v2.zip"
       },
       "directions": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "directions",
           "labels": {
@@ -1107,12 +1107,12 @@
           }
         },
         "wordCount": 52,
-        "bytes": 2289944,
-        "sha256": "41e6f0e9d571bac667b823e9f4f0cdf690cbe39ae1f8c2e78f5fc26863922a55",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/directions-v1.zip"
+        "bytes": 2387843,
+        "sha256": "2819e886bba1b3ebca63a259ebe77177ec54903fcfd1fcb37b489768a5e1d629",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/directions-v2.zip"
       },
       "drinks": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "drinks",
           "labels": {
@@ -1158,12 +1158,12 @@
           }
         },
         "wordCount": 20,
-        "bytes": 1080142,
-        "sha256": "e367a08c012dbee154b566a478f93b9a4c778d4d6fed9eb02748a98cf426d9db",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/drinks-v1.zip"
+        "bytes": 1135875,
+        "sha256": "39d984e17d345633bff2f8c188e7c367684a56ea263dc6b0924ee2b6d37808ce",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/drinks-v2.zip"
       },
       "feelings": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "feelings",
           "labels": {
@@ -1209,12 +1209,12 @@
           }
         },
         "wordCount": 25,
-        "bytes": 1272512,
-        "sha256": "0c3eb97f9ff96f62b72f10508290af2b6d7ea8cfab87de12151c4120b980088a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/feelings-v1.zip"
+        "bytes": 1353348,
+        "sha256": "faf3448cbff39021a7e0ad6fbfc9848c77d3dba51ebae39f971d9ffcfe542042",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/feelings-v2.zip"
       },
       "fruit": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "fruit",
           "labels": {
@@ -1260,12 +1260,12 @@
           }
         },
         "wordCount": 30,
-        "bytes": 1468766,
-        "sha256": "b234fd89533abe2192c63075f270ea871cc0231304efeeca266ba6736a3c400c",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/fruit-v1.zip"
+        "bytes": 1534568,
+        "sha256": "5b9dd61e68b7b1b289365a4a29c31716a95e23555c3e0bce9e7c3e04b3b56620",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/fruit-v2.zip"
       },
       "furniture": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "furniture",
           "labels": {
@@ -1311,12 +1311,12 @@
           }
         },
         "wordCount": 45,
-        "bytes": 2403785,
-        "sha256": "b8c88f77afeb7e449792f98af406b1f79a912b3fab2ac8987ece62868a572b3b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/furniture-v1.zip"
+        "bytes": 2527211,
+        "sha256": "8b3fa6a864d38bb96046ac733eaedb83e2fa081c550ef1adef06018efc90c24d",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/furniture-v2.zip"
       },
       "home": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "home",
           "labels": {
@@ -1362,12 +1362,12 @@
           }
         },
         "wordCount": 38,
-        "bytes": 1870505,
-        "sha256": "ab33e276207d51c7fb079336c1258c947eccbd31864a4fc8df1239962c9f95c0",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/home-v1.zip"
+        "bytes": 1963865,
+        "sha256": "d7c0873341b30a7b33cdc6fb48f3c69252ef8bfbe88f4fed5a03318d0c551774",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/home-v2.zip"
       },
       "ingredients": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "ingredients",
           "labels": {
@@ -1413,12 +1413,12 @@
           }
         },
         "wordCount": 50,
-        "bytes": 2756666,
-        "sha256": "b90cbb8b044c6036e8abb7377c920c7dbd46e3e4c2ad5d02461305be5255aa67",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/ingredients-v1.zip"
+        "bytes": 2897737,
+        "sha256": "e7d942f66e916fcb2add1aac88aaab3cf4cffb7b816fb9409f69a8d97696e53f",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/ingredients-v2.zip"
       },
       "jobs": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "jobs",
           "labels": {
@@ -1464,12 +1464,12 @@
           }
         },
         "wordCount": 34,
-        "bytes": 1758520,
-        "sha256": "31680bbc3373fefee2c68a8da25613533ae1f815d66f9f62ea0910d842774206",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/jobs-v1.zip"
+        "bytes": 1827806,
+        "sha256": "948e5b536393729e28d4263ff51a297f7a38fd931922ca9c911112a6f312c1fd",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/jobs-v2.zip"
       },
       "kitchen-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "kitchen-1",
           "labels": {
@@ -1515,12 +1515,12 @@
           }
         },
         "wordCount": 38,
-        "bytes": 1900548,
-        "sha256": "c1ca67ae6b14be103692360bfc17932d6848d578bffb19f1234a1a3a0fa5706c",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/kitchen-1-v1.zip"
+        "bytes": 1988294,
+        "sha256": "d502ebb07b18e7c400be9ed8f5246c943a064dc6d35f8cb5fe1f2657bf63502b",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/kitchen-1-v2.zip"
       },
       "kitchen-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "kitchen-2",
           "labels": {
@@ -1566,12 +1566,12 @@
           }
         },
         "wordCount": 40,
-        "bytes": 2307325,
-        "sha256": "a1b45f6d6e89e739cb46c4f287bf0090066e049812c029ea4bb596eaaf94c060",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/kitchen-2-v1.zip"
+        "bytes": 2418944,
+        "sha256": "8478338e96cd5b9d7921ebb072c7b5c4ea71ef1c9f08062324fef1bbf766a9c9",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/kitchen-2-v2.zip"
       },
       "meals-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "meals-1",
           "labels": {
@@ -1617,12 +1617,12 @@
           }
         },
         "wordCount": 30,
-        "bytes": 1470194,
-        "sha256": "a288e0858bf4d0d2423934ef750caa7a6806040d65e9e8d0d1e27cc730aa1807",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/meals-1-v1.zip"
+        "bytes": 1525167,
+        "sha256": "28075a40d37e7c74c64d231a34bc3771d8272f245b372edfc82b2e9bba2f5933",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/meals-1-v2.zip"
       },
       "meals-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "meals-2",
           "labels": {
@@ -1668,12 +1668,12 @@
           }
         },
         "wordCount": 27,
-        "bytes": 1744603,
-        "sha256": "c97d4a4f6a84a3b1a446bef150e05c9638d785ce0a6a6d635158e15e91de8995",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/meals-2-v1.zip"
+        "bytes": 1820851,
+        "sha256": "c9253e1d282d2ac067d8e817735e7a2e337eb39346bb1fd6a45208c03b4c31c7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/meals-2-v2.zip"
       },
       "movement": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "movement",
           "labels": {
@@ -1719,12 +1719,12 @@
           }
         },
         "wordCount": 11,
-        "bytes": 566124,
-        "sha256": "26416ccb20682ea5395e90ae231a8168268c1b59fb920962aaa1fe054f3dc3c2",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/movement-v1.zip"
+        "bytes": 604127,
+        "sha256": "170f060bc8bc5d32762bd03303cb9df64c83b6a16cfc1491482427892e4f12c9",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/movement-v2.zip"
       },
       "nature-places": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "nature-places",
           "labels": {
@@ -1770,12 +1770,12 @@
           }
         },
         "wordCount": 41,
-        "bytes": 2095403,
-        "sha256": "f7a3bb84019c41a3eb69e1de235280edfbf61b57bc2c13daadfa13e63374e581",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/nature-places-v1.zip"
+        "bytes": 2199730,
+        "sha256": "7094110ee4a3f233009686b4a6d9cd32021a82be43b5e5a7cf25c48e0aff4c7c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/nature-places-v2.zip"
       },
       "people": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "people",
           "labels": {
@@ -1821,12 +1821,12 @@
           }
         },
         "wordCount": 45,
-        "bytes": 2181181,
-        "sha256": "1aa054ff39b6d1b519b3a4f811bcce498b1decd629572b11bae923f3a5b48b45",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/people-v1.zip"
+        "bytes": 2297236,
+        "sha256": "d65fbacf5478294c5ad07061f7398f395fcfb91cbc3ba1b019bd14fed458bc0e",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/people-v2.zip"
       },
       "places": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "places",
           "labels": {
@@ -1872,12 +1872,12 @@
           }
         },
         "wordCount": 30,
-        "bytes": 1536728,
-        "sha256": "f9bc5e7c208b76a6c81e788d25660b5d490a87865350fba935eb8de735d368f4",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/places-v1.zip"
+        "bytes": 1612060,
+        "sha256": "2ba98612b43e4e01e777a6addaf713b753e428eaabb74c9b0d7c0d898da135c5",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/places-v2.zip"
       },
       "plants": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "plants",
           "labels": {
@@ -1923,12 +1923,12 @@
           }
         },
         "wordCount": 53,
-        "bytes": 2575798,
-        "sha256": "d21936c45b78a80593fb45897472d507b04c72641bc030bba6160f18a0ccb1db",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/plants-v1.zip"
+        "bytes": 2699289,
+        "sha256": "39013666eea2d8fcdb905faaf102d8b022512518d355391262d8a8190d5ab3ed",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/plants-v2.zip"
       },
       "play-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "play-1",
           "labels": {
@@ -1974,12 +1974,12 @@
           }
         },
         "wordCount": 27,
-        "bytes": 1494331,
-        "sha256": "24f5f268a61ab6d356efe35b1ee5c3fed0e2793d980daf2ffaeb7035f60d13e9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/play-1-v1.zip"
+        "bytes": 1566375,
+        "sha256": "948e68a6feb9671ef6e530fb5ea8992e9bfffdf14bd449c91b7a2066840b164c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/play-1-v2.zip"
       },
       "play-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "play-2",
           "labels": {
@@ -2025,12 +2025,12 @@
           }
         },
         "wordCount": 22,
-        "bytes": 1443403,
-        "sha256": "0da4dc4afca574e1545c8d81fd8f955314393cf300e4f11f83ae938c8e3ea621",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/play-2-v1.zip"
+        "bytes": 1523622,
+        "sha256": "6a96a097d91bfdd2aef9c1db1464c03c4d159208f5d3d79abaf03faf5f816ee4",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/play-2-v2.zip"
       },
       "routines-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "routines-1",
           "labels": {
@@ -2076,12 +2076,12 @@
           }
         },
         "wordCount": 42,
-        "bytes": 2323314,
-        "sha256": "50b477a73f26275e113bf805beb5231c47f66a2ed94f7f6c6cd3dc3e09c8ba3c",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/routines-1-v1.zip"
+        "bytes": 2441482,
+        "sha256": "2daad153ae87943e42d03ccb0d37266e7ea0cafbf4169a99e3f1ac0af21a173d",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/routines-1-v2.zip"
       },
       "routines-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "routines-2",
           "labels": {
@@ -2127,12 +2127,12 @@
           }
         },
         "wordCount": 31,
-        "bytes": 1998417,
-        "sha256": "7d8e68f7d0c95720c1dd849546dc03134488b434cffde4e4037eb7bb1e37dd56",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/routines-2-v1.zip"
+        "bytes": 2104027,
+        "sha256": "cc467b14caeaee2492ecb006b0e35df50b6d733b9ea0993f1848539222300cae",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/routines-2-v2.zip"
       },
       "school-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "school-1",
           "labels": {
@@ -2178,12 +2178,12 @@
           }
         },
         "wordCount": 37,
-        "bytes": 1855249,
-        "sha256": "813fa6d7069fd4d74623c585e8a4e204b9080e098c5f6d101eff1db61172465e",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/school-1-v1.zip"
+        "bytes": 1946643,
+        "sha256": "b58a434b1eaa05eec13ff7104ad13db9039a0116059258163afc2ba694ed4ff7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/school-1-v2.zip"
       },
       "school-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "school-2",
           "labels": {
@@ -2229,12 +2229,12 @@
           }
         },
         "wordCount": 34,
-        "bytes": 2184904,
-        "sha256": "643439bd53af73ee7301c59958bf361ef9e15856b4d11ee4673019ac20c86260",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/school-2-v1.zip"
+        "bytes": 2285616,
+        "sha256": "ef2a0278ca89d43a83f4ff0c5161c8131f918653e4a8836a2c25a124c6662179",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/school-2-v2.zip"
       },
       "small-creatures": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "small-creatures",
           "labels": {
@@ -2280,12 +2280,12 @@
           }
         },
         "wordCount": 17,
-        "bytes": 855992,
-        "sha256": "7cb527362d3ccb64946971183c7350b5239b5eda3574cc33eda4dc7d9556d5f1",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/small-creatures-v1.zip"
+        "bytes": 900144,
+        "sha256": "c45349d4706cd5d7993c55ddebc592316ee4e4bf4414de3b891cb0b132f27cd7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/small-creatures-v2.zip"
       },
       "snacks": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "snacks",
           "labels": {
@@ -2331,12 +2331,12 @@
           }
         },
         "wordCount": 47,
-        "bytes": 2691175,
-        "sha256": "090b4f0e36dd04860af8489ff93b3c226ea221bdca419c87d2be07b6a60e76db",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/snacks-v1.zip"
+        "bytes": 2815271,
+        "sha256": "60e8b432093b67d417e4b4f26a5a0b9213289972a4dfa187d1703434fc96adbd",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/snacks-v2.zip"
       },
       "sports": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "sports",
           "labels": {
@@ -2382,12 +2382,12 @@
           }
         },
         "wordCount": 43,
-        "bytes": 2430745,
-        "sha256": "fd538e46739981d228cde7fa19d629d82007b88561e68e2942b5fdfc191713c9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/sports-v1.zip"
+        "bytes": 2547118,
+        "sha256": "817171a40993c35902eb54f00b55c5ec1da72d67c23f8fc7d211891d386c1a46",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/sports-v2.zip"
       },
       "technology": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "technology",
           "labels": {
@@ -2433,12 +2433,12 @@
           }
         },
         "wordCount": 41,
-        "bytes": 2176085,
-        "sha256": "4c887345b9c680b4ca4a7cf99854cf91fa05ecb96816b3b1667f6b201671b81d",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/technology-v1.zip"
+        "bytes": 2292718,
+        "sha256": "1eecd0b12f919daa7ceec6204d262854d8a11b7c8e7f0decc727ce3a031cd1ac",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/technology-v2.zip"
       },
       "time-numbers-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "time-numbers-1",
           "labels": {
@@ -2484,12 +2484,12 @@
           }
         },
         "wordCount": 46,
-        "bytes": 1902524,
-        "sha256": "bf437410a6ec08b77578f5cfc6229ba5c71cde2e5b8c5c79d94350d64277622b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/time-numbers-1-v1.zip"
+        "bytes": 1999258,
+        "sha256": "90c9f8f40bcb9a13c8068710d282e994a90469469dea537666d7ec0d26802599",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/time-numbers-1-v2.zip"
       },
       "time-numbers-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "time-numbers-2",
           "labels": {
@@ -2535,12 +2535,12 @@
           }
         },
         "wordCount": 52,
-        "bytes": 2390093,
-        "sha256": "b575dea786ab01c3de771fef36df01f3778a576d53a59a972bdb6a833a03d4f1",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/time-numbers-2-v1.zip"
+        "bytes": 2502837,
+        "sha256": "fe36b8605e02229c8f5567546f7ed6e02255419abc8d7cab246c9ff7d640aaca",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/time-numbers-2-v2.zip"
       },
       "tools": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "tools",
           "labels": {
@@ -2586,12 +2586,12 @@
           }
         },
         "wordCount": 43,
-        "bytes": 2192191,
-        "sha256": "7994f82d3c893b199ae2f0d62d5e8028fdef89f28fe8cf94f377e9589c1266f9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/tools-v1.zip"
+        "bytes": 2303585,
+        "sha256": "19350334feb6399a110f1057517347e7e57ab0f3f10258ecf2859907d391d8cd",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/tools-v2.zip"
       },
       "transport-1": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "transport-1",
           "labels": {
@@ -2637,12 +2637,12 @@
           }
         },
         "wordCount": 37,
-        "bytes": 1844435,
-        "sha256": "90bb352fb626ce83a9e597bf302331ffd89e32f0f40e5c9968dfd15f95bd200a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/transport-1-v1.zip"
+        "bytes": 1933252,
+        "sha256": "5908c59c5bf209f26d45415443b7d51c596f6bbcf3d52cde4f202458c481ddb4",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/transport-1-v2.zip"
       },
       "transport-2": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "transport-2",
           "labels": {
@@ -2688,12 +2688,12 @@
           }
         },
         "wordCount": 28,
-        "bytes": 1738578,
-        "sha256": "91fcb5495c839ecfde15c3ff66489196dcfa577c7fec3d02a142415f50afdf5c",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/transport-2-v1.zip"
+        "bytes": 1825828,
+        "sha256": "a90e0f731a07954d501d0df7337c5a2414127d88d6eaec7e423e6f409c380268",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/transport-2-v2.zip"
       },
       "vegetables": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "vegetables",
           "labels": {
@@ -2739,12 +2739,12 @@
           }
         },
         "wordCount": 49,
-        "bytes": 2681488,
-        "sha256": "cb34d65a256f5e5cc4db618b793f99ecf9bc8e99ba3c75b150b494dd10acd7fd",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/vegetables-v1.zip"
+        "bytes": 2815924,
+        "sha256": "843249b9b8411e5a64a65ee788dc832f9da57a7ad51c5cbafbe1b0dd440b18d4",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/vegetables-v2.zip"
       },
       "water-life": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "water-life",
           "labels": {
@@ -2790,12 +2790,12 @@
           }
         },
         "wordCount": 26,
-        "bytes": 1236324,
-        "sha256": "42e74b4832886be849eef859f11fce55253c678847dc71dfdf67607e5d0f761c",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/water-life-v1.zip"
+        "bytes": 1294452,
+        "sha256": "d989bf6a4db15e45bd451ec8ba9dd38fe0cf75a9ca59b491100a3e3ea80d5a12",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/water-life-v2.zip"
       },
       "weather-space": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "weather-space",
           "labels": {
@@ -2841,12 +2841,12 @@
           }
         },
         "wordCount": 39,
-        "bytes": 1926605,
-        "sha256": "afc0863753ec9f382e38adae47437fd5071be3c5aab645a8fbb69b13ea8ca091",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/weather-space-v1.zip"
+        "bytes": 2016104,
+        "sha256": "b742bdf4a8f87d5647595c436fdf3e42a0ab1ce726e255b91ce03706001d4c1f",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/weather-space-v2.zip"
       },
       "wildlife": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "wildlife",
           "labels": {
@@ -2892,12 +2892,12 @@
           }
         },
         "wordCount": 53,
-        "bytes": 2551596,
-        "sha256": "7e258fb01754be0eb9b98d22ae0430ddbdd7fcd1997c2b5b119e185f7933716f",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/wildlife-v1.zip"
+        "bytes": 2673639,
+        "sha256": "3ec95caa3967fc7c643542f06685716b75f0b855d12b66e16ee992ec56ac82fe",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/wildlife-v2.zip"
       },
       "subject-pronouns": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "subject-pronouns",
           "labels": {
@@ -2943,12 +2943,12 @@
           }
         },
         "wordCount": 7,
-        "bytes": 273667,
-        "sha256": "ad2654a16b97c215fab3b53e181998c4caace9e1beee18a530afb498de82ba98",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/subject-pronouns-v1.zip"
+        "bytes": 282543,
+        "sha256": "5c44b042c63e4143dfaa75ef4011a9fb3c4fe90faaeccc00e4cb6b9e9cc9e6e2",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/subject-pronouns-v2.zip"
       },
       "object-pronouns": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "object-pronouns",
           "labels": {
@@ -2994,12 +2994,12 @@
           }
         },
         "wordCount": 5,
-        "bytes": 217296,
-        "sha256": "001619d0539cf0c1904409b336e5a77e3d60b610867f33cb701d7002d25fea9a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/object-pronouns-v1.zip"
+        "bytes": 224787,
+        "sha256": "6e0543e739f49b49427763b45450cb3a11ad28b6692a2834e7014d54a82586e7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/object-pronouns-v2.zip"
       },
       "positions": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "positions",
           "labels": {
@@ -3045,12 +3045,12 @@
           }
         },
         "wordCount": 5,
-        "bytes": 236528,
-        "sha256": "8d4ea24edad21e83a1f9a75baad9776d96679f665d42384f31cc35f1995a043b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/positions-v1.zip"
+        "bytes": 247928,
+        "sha256": "dc76577793b392f7b9e40a51647637773980d335979fae7f02d71cfd2c782d5d",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/positions-v2.zip"
       },
       "english-a": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-a",
           "labels": {
@@ -3096,12 +3096,12 @@
           }
         },
         "wordCount": 150,
-        "bytes": 6957428,
-        "sha256": "dbf5515b8f3ccbced6d7b91364468143905e0534c8db6c8420b38d628b9d8dce",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-a-v1.zip"
+        "bytes": 7338666,
+        "sha256": "1ef3d6cc8ee808eca85d68f9f9740fb43399ce7b027ca7434029846b0df207a7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-a-v2.zip"
       },
       "english-b": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-b",
           "labels": {
@@ -3147,12 +3147,12 @@
           }
         },
         "wordCount": 193,
-        "bytes": 9582683,
-        "sha256": "1ae35f93c7e341c0004369fc1c25d3d97a87ad5662984e1dc1ee7e6ce2c4d6e8",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-b-v1.zip"
+        "bytes": 10087302,
+        "sha256": "74ff98958268365c2b313d126f0112a0254b6be0fdce128d3b856793f68ae2f6",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-b-v2.zip"
       },
       "english-c": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-c",
           "labels": {
@@ -3198,12 +3198,12 @@
           }
         },
         "wordCount": 291,
-        "bytes": 14798029,
-        "sha256": "41ba6dfaccc4b39504463cd4d8186b6a0f40a78fdc11ce706453923f1818db6b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-c-v1.zip"
+        "bytes": 15469799,
+        "sha256": "1ca95b2a83bf5e4ab52ed9d8c2e5fe1acbfd228fc11caa327d96d58a313f123a",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-c-v2.zip"
       },
       "english-d": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-d",
           "labels": {
@@ -3249,12 +3249,12 @@
           }
         },
         "wordCount": 122,
-        "bytes": 5774180,
-        "sha256": "60f89bf87f82a119a3e7f2c512a98704bbd88434f6326595090f110dfafb857b",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-d-v1.zip"
+        "bytes": 6069656,
+        "sha256": "9c58b781a29534cc7007ed9e4aaeb59d18acc09bb2e18542fb38f4f312327df8",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-d-v2.zip"
       },
       "english-e": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-e",
           "labels": {
@@ -3300,12 +3300,12 @@
           }
         },
         "wordCount": 95,
-        "bytes": 4515313,
-        "sha256": "ad4978d72d70ca0c6124493f21bd9a21a73d1ccef3867a14ffbf963887e40efa",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-e-v1.zip"
+        "bytes": 4767051,
+        "sha256": "dc1ceef6c2427f4fb5a287d0587717f9f1d053494695a2c35b40f0b9eb00d86e",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-e-v2.zip"
       },
       "english-f": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-f",
           "labels": {
@@ -3351,12 +3351,12 @@
           }
         },
         "wordCount": 173,
-        "bytes": 8394878,
-        "sha256": "cccff667479316fa8c0a0bda41071baebf9f5dd00ff1dadaa98696c6a1e1750e",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-f-v1.zip"
+        "bytes": 8819090,
+        "sha256": "908ba2133adaa03f75fd3604cafc4597c15222abac82727a3a39bcc7de7e96be",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-f-v2.zip"
       },
       "english-g": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-g",
           "labels": {
@@ -3402,12 +3402,12 @@
           }
         },
         "wordCount": 117,
-        "bytes": 5592001,
-        "sha256": "69c017612188f5b466f366edfb3d0bc8525e3b881454e5df73045af7cc471a9f",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-g-v1.zip"
+        "bytes": 5903284,
+        "sha256": "ab671d101ffac088d0cb55b1889ec108820a74eb300dce00d9cc13c9563b06fd",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-g-v2.zip"
       },
       "english-h": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-h",
           "labels": {
@@ -3453,12 +3453,12 @@
           }
         },
         "wordCount": 124,
-        "bytes": 5722872,
-        "sha256": "b3e8c90342832e9fe6de5fc880e6f5092ef202b268a53205857edc58d8c94abe",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-h-v1.zip"
+        "bytes": 6025835,
+        "sha256": "1a39269b9428075f5fddf1c90060bf0a5fcb60c6c96616ee04da711099deae6c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-h-v2.zip"
       },
       "english-i": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-i",
           "labels": {
@@ -3504,12 +3504,12 @@
           }
         },
         "wordCount": 59,
-        "bytes": 2829113,
-        "sha256": "26a712e89813bca543695cae4a202c38e167697efc184b193c1c4c62cf868c13",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-i-v1.zip"
+        "bytes": 2992327,
+        "sha256": "32796f4ba81234095160ffe7e473a60eb3d09e5d829cab083fbbbd9906c2c2a7",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-i-v2.zip"
       },
       "english-j": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-j",
           "labels": {
@@ -3555,12 +3555,12 @@
           }
         },
         "wordCount": 38,
-        "bytes": 1734732,
-        "sha256": "65eb06442fb895cfa4379506e71e1909e8abf16fb95af40e3440ce28e33572a1",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-j-v1.zip"
+        "bytes": 1822857,
+        "sha256": "cd59b995080de97b24406bc3f4e0675da32abcde59814b6d4d0cc2a4fe570b2a",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-j-v2.zip"
       },
       "english-k": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-k",
           "labels": {
@@ -3606,12 +3606,12 @@
           }
         },
         "wordCount": 30,
-        "bytes": 1518752,
-        "sha256": "e407f8ee5fe5ebef6005110ebdd6cedde97811695ec7b85d39aa52dc36ef88f9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-k-v1.zip"
+        "bytes": 1579658,
+        "sha256": "a3caa34897077a7a42973ab4dcb79fca9b4a53b158206816d237c31cf95e3a9a",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-k-v2.zip"
       },
       "english-l": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-l",
           "labels": {
@@ -3657,12 +3657,12 @@
           }
         },
         "wordCount": 121,
-        "bytes": 5630194,
-        "sha256": "8dbe026a1fdcf23d0b1e2f64c8fa8e6155330c2599f96c290bfdf85e3b3386b9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-l-v1.zip"
+        "bytes": 5927570,
+        "sha256": "e9b81333965f942d24fd370eeb6ba663ba3b7ed365b61513f8a915e3e32818cf",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-l-v2.zip"
       },
       "english-m": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-m",
           "labels": {
@@ -3708,12 +3708,12 @@
           }
         },
         "wordCount": 135,
-        "bytes": 6325516,
-        "sha256": "69c2515fc9763e7e59ce2d28e2cf0c1e360ba1c259f14eef254b588d81c3cdfb",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-m-v1.zip"
+        "bytes": 6643467,
+        "sha256": "b5e18322cee91d177160b6ac098c7af9230efec289e7825351e32db07634223c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-m-v2.zip"
       },
       "english-n": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-n",
           "labels": {
@@ -3759,12 +3759,12 @@
           }
         },
         "wordCount": 62,
-        "bytes": 2906644,
-        "sha256": "4cf3fd068dd4d34f70d56e787d88386f22abea03fc47a6e42baedce71684d692",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-n-v1.zip"
+        "bytes": 3064050,
+        "sha256": "5db659cc3a7d766cc6d4506b6ba20ebfc1707583c5be16c33a18157997b0e2ca",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-n-v2.zip"
       },
       "english-o": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-o",
           "labels": {
@@ -3810,12 +3810,12 @@
           }
         },
         "wordCount": 72,
-        "bytes": 3211858,
-        "sha256": "cbc7ee64f1054b477414cca71d3ef2d675b06c1062f03abef32cfdee0004b91a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-o-v1.zip"
+        "bytes": 3391853,
+        "sha256": "fca6776dc2ec1406ba4056b9b1e43e15a5a9c12cfb98e672c23d570ff112f14d",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-o-v2.zip"
       },
       "english-p": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-p",
           "labels": {
@@ -3861,12 +3861,12 @@
           }
         },
         "wordCount": 254,
-        "bytes": 12488629,
-        "sha256": "51193a637927cb32a184832d56283fa50b6c49910456b4606ce33eff941acb3a",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-p-v1.zip"
+        "bytes": 13054472,
+        "sha256": "109ee8daa5beae1b4429b5dcf21e2de40ab6efc00fbe2ed6445fb2ef9df5db08",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-p-v2.zip"
       },
       "english-q": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-q",
           "labels": {
@@ -3912,12 +3912,12 @@
           }
         },
         "wordCount": 12,
-        "bytes": 565177,
-        "sha256": "f6173778808e12297373a577adcfd3085f31bc60713fc37da0877c94ec2888a9",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-q-v1.zip"
+        "bytes": 588817,
+        "sha256": "3a1f5903d015b62358d3c55c2c61e7b9502e5f060deaf2254fdd8476e835fc8c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-q-v2.zip"
       },
       "english-r": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-r",
           "labels": {
@@ -3963,12 +3963,12 @@
           }
         },
         "wordCount": 155,
-        "bytes": 7335571,
-        "sha256": "a95dc82850b3b1852986260cb0a613079b84a78b44a9f98bfd16007ac6362a65",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-r-v1.zip"
+        "bytes": 7716537,
+        "sha256": "d628bf13ced8f28c8571ceb33e3ff21e88c3cce011d9915ea48904b03886de42",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-r-v2.zip"
       },
       "english-s": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-s",
           "labels": {
@@ -4014,12 +4014,12 @@
           }
         },
         "wordCount": 392,
-        "bytes": 19414870,
-        "sha256": "90e250696d37121ef559038d93b85c9ec9e1c893b121ec99bd15f0fd9795b355",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-s-v1.zip"
+        "bytes": 20439617,
+        "sha256": "8ed5ab4fb17135decd873e7d9a6a0e5b2a34efee6715d90bf8beb3579acdde2f",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-s-v2.zip"
       },
       "english-t": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-t",
           "labels": {
@@ -4065,12 +4065,12 @@
           }
         },
         "wordCount": 158,
-        "bytes": 7926262,
-        "sha256": "c1be0e222b7059aa54fc11928334223ed5e561e2f444a92f41996947b139d069",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-t-v1.zip"
+        "bytes": 8309085,
+        "sha256": "1b98ccc5d3933b9d4c6cafee32e2684eccc12ae302cdb00105f2b18ba8e7c030",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-t-v2.zip"
       },
       "english-u": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-u",
           "labels": {
@@ -4116,12 +4116,12 @@
           }
         },
         "wordCount": 26,
-        "bytes": 1191150,
-        "sha256": "4d516a5413634c7df391ee70dd77de9e9eac7353d95394b83106f25f10dc50f6",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-u-v1.zip"
+        "bytes": 1267941,
+        "sha256": "175ec388dfb872dd96a94e6e3188ef43146a52d555b0a71eae690d0911f3b0d1",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-u-v2.zip"
       },
       "english-v": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-v",
           "labels": {
@@ -4167,12 +4167,12 @@
           }
         },
         "wordCount": 26,
-        "bytes": 1226001,
-        "sha256": "4d08a3615785930c44589de6606afb06cb79a2cb8fa21833f3ba6e22e69eada5",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-v-v1.zip"
+        "bytes": 1286374,
+        "sha256": "115337cca1522b912be0492c188e72a2a68ac2b5477f84aabcca4d2b81daaf9c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-v-v2.zip"
       },
       "english-w": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-w",
           "labels": {
@@ -4218,12 +4218,12 @@
           }
         },
         "wordCount": 78,
-        "bytes": 3854204,
-        "sha256": "92e4023cf083abe3637005439ff8088771e1f19c2adb3bcdd47542cbb7b2b0d5",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-w-v1.zip"
+        "bytes": 4056948,
+        "sha256": "4393e7b3920de0439b2baa7780967b7568b53ad3d65747c1f036b06989a2c7a3",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-w-v2.zip"
       },
       "english-x-z": {
-        "version": 1,
+        "version": 2,
         "topic": {
           "id": "english-x-z",
           "labels": {
@@ -4269,11 +4269,11 @@
           }
         },
         "wordCount": 9,
-        "bytes": 335774,
-        "sha256": "931cc90f9762605a1f3a674d3040f21e3b1f4540a3260a5cc4fecaa66dac5195",
-        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v1/english-x-z-v1.zip"
+        "bytes": 351028,
+        "sha256": "25e882243049419a5505ba9c71eb579e16ac359f809f85beaa734dd92a2c9e0c",
+        "url": "https://github.com/serhiiMalykhin/word-pocket-releases/releases/download/content-v2/english-x-z-v2.zip"
       }
     }
   },
-  "signature": "pSF2b0LJ+tFF55qPhiNpAQbY+JijSrOHUgDomHxxOks181vUK629tzGQbqq1nIg1uRjmAaDanUmSCrNgx81D/qBZeV3H7ePGNjh5FdlBsRp+Sn8NHTECIVyVbDEb7YqKPmzbNxrWBGhEbw3ISFQXJ1MvWAfm8/WwNZVmaTvC7z1C9+HbcOyT8uCc+rYJk9HNbIrR8p7K7i4GDY55IWd9ny+9Lw7VZHzV/3zoB3I4HyO4HTUP4SVdr4ceqOdmnSslV2VCwtZQGf0eLi/pXuHPvGOQU86k7zQ7H1zEZ2OqlipMi6nwaNUCcMFxpANijqqh3MYg0leb1gIQxD/VHu7uzA=="
+  "signature": "c+0veypWx5WmZSr7YQtpGiJuKHIKYVvhNnpkdGvevdOcSpEGvfICIAEmvpz2i+sBnItYjdst459oZdknZ/9lD7vumUJgH37M8VBQfN9IMCKakdNxyuTpfeGFZIpvz03MSHDW2og2aWqwhabUHtaYBHzH1hyZ1Enq9iZ8vHWUiQpPBoSBLAcNsb3TIhbhG2rIeHWOsZdg16ROb2ZFu8+WUIVR+rkqrf5Q7+5dhQ1LBt7/MdpjnBLDbIF8yEW+OGTCwRX7i4vyvbl24idbH58UGye81LkPfbtqe0blGQd1cwALgpPVZXWV4mc5BU4VvgA+y5Hdy/Dxcmekx1NBdEjaOA=="
 }
